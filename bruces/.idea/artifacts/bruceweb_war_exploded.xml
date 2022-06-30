@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="bruceweb:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/bruceweb_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="bruceweb/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="bruceweb" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

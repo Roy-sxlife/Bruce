@@ -1,0 +1,121 @@
+{
+  "id": "2892078",
+  "name": "myicon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1307",
+      "name": "应用中心",
+      "font_class": "yingyongzhongxin",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "259485",
+      "name": "图书",
+      "font_class": "tushu",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "883990",
+      "name": "评价",
+      "font_class": "pingjia",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "5961297",
+      "name": "查询",
+      "font_class": "chaxun",
+      "unicode": "ec4c",
+      "unicode_decimal": 60492
+    },
+    {
+      "icon_id": "6204762",
+      "name": "成绩录入",
+      "font_class": "chengjiluru",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "6204782",
+      "name": "自主选课",
+      "font_class": "zizhuxuanke",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "6365013",
+      "name": "校历",
+      "font_class": "xiaoli",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "6560965",
+      "name": "课程",
+      "font_class": "kecheng",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "8835278",
+      "name": "学籍异动管理",
+      "font_class": "xuejiyidongguanli",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "12906226",
+      "name": "学籍管理",
+      "font_class": "xuejiguanli",
+      "unicode": "e6b6",
+      "unicode_decimal": 59062
+    },
+    {
+      "icon_id": "17842771",
+      "name": "教室",
+      "font_class": "jiaoshi",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "20342426",
+      "name": "学习任务",
+      "font_class": "xuexirenwu",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    },
+    {
+      "icon_id": "22357080",
+      "name": "考试",
+      "font_class": "kaoshi",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "553324",
+      "name": "验证 验证码",
+      "font_class": "yanzhengyanzhengma",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "11372676",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e8b2",
+      "unicode_decimal": 59570
+    },
+    {
+      "icon_id": "12704986",
+      "name": "用户名",
+      "font_class": "yonghuming",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    }
+  ]
+}

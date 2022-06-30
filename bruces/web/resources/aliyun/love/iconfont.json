@@ -1,0 +1,16 @@
+{
+  "id": "3111166",
+  "name": "icon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8288959",
+      "name": "爱心",
+      "font_class": "aixin",
+      "unicode": "e85c",
+      "unicode_decimal": 59484
+    }
+  ]
+}

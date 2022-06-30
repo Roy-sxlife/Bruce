@@ -1,0 +1,79 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2892078 */
+  src: url('iconfont.woff2?t=1636431433627') format('woff2'),
+       url('iconfont.woff?t=1636431433627') format('woff'),
+       url('iconfont.ttf?t=1636431433627') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-yingyongzhongxin:before {
+  content: "\e600";
+}
+
+.icon-tushu:before {
+  content: "\e614";
+}
+
+.icon-pingjia:before {
+  content: "\e621";
+}
+
+.icon-chaxun:before {
+  content: "\ec4c";
+}
+
+.icon-chengjiluru:before {
+  content: "\e650";
+}
+
+.icon-zizhuxuanke:before {
+  content: "\e659";
+}
+
+.icon-xiaoli:before {
+  content: "\e654";
+}
+
+.icon-kecheng:before {
+  content: "\e609";
+}
+
+.icon-xuejiyidongguanli:before {
+  content: "\e67a";
+}
+
+.icon-xuejiguanli:before {
+  content: "\e6b6";
+}
+
+.icon-jiaoshi:before {
+  content: "\e60b";
+}
+
+.icon-xuexirenwu:before {
+  content: "\e673";
+}
+
+.icon-kaoshi:before {
+  content: "\e603";
+}
+
+.icon-yanzhengyanzhengma:before {
+  content: "\e624";
+}
+
+.icon-mima:before {
+  content: "\e8b2";
+}
+
+.icon-yonghuming:before {
+  content: "\e60a";
+}
+
